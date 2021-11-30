@@ -44,7 +44,7 @@ The following tables contain contest data:
 **Submissions Table:**
 
 | submission_id | hacker_id | challenge_id | score |
-| --- | --- |
+| --- | --- | --- | --- |
 | 67194 | 74842 | 63132 | 76 |
 | 64479 | 74842 | 19797 | 98 |
 | 40742 | 26071 | 49593 | 20 |
