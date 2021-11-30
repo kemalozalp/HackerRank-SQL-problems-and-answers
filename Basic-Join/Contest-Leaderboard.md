@@ -95,7 +95,7 @@ We have hacker_id and name columns given, but we have to calculate total score. 
 Hmm... It sounds like we have to get the maximum score of a hacker for each challenge. The question implies that hackers might submitted more than once for a challenge. Suppose there is one hacker. Then, we have to GROUP BY challenge and SELECT the MAXIMUM score. This way, we can get a list of CHALLENGES and MAX_SCORES. However, we have multiple hackers. No worries! We can GROUP BY two different attributes. So, we GROUP BY hacker_id, name, and challenge_id. Imagine we have a table as below:
 
 | hacker_id | challenge_id | max_score|
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | 1 | 90 |
 | 1 | 2 | 80 |
 | 1 | 3 | 100 |
