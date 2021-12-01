@@ -8,7 +8,7 @@ This question is way too long to type in MARKDOWN format. So, please use the abo
 
 ## ANSWER
 
-For those who are impatient, here is the code. Although, I highly recommend you to continue reading because how you approach to the problem is more important in the long than just getting the answer:
+For those who are impatient, here is the code. Although, I highly recommend you to continue reading because how you approach to the problem is more important in the long run than just getting the answer:
 
 ```sql
 SELECT
