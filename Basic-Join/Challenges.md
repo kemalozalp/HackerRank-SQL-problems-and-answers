@@ -1,4 +1,4 @@
-# Ollivander's Inventory
+# Challenges
 
 ## Question:
 
